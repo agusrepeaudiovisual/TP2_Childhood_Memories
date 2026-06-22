@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/Art/materials/MasterMaterial/MasterMaterial.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/Art/ladrillos/ladrillos.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/Art/papel_terror/papel_terror.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_doble_L.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_simple_M.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_simple_S.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_marco_puerta.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_doble_M_001.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_simple_L_001.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_modulo_triple_1.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_esquina_doble.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/6D/TN2TW6Y2PC4783L149F58O.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/GI/ZNQR98P9WGNOVUSAI0INW6.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/E0/QQSX0SB90LNQYVPHYFWCT0.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/RZ/SSXG3OL8G6I09OENZYFK71.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/HW/JF66ZCOE9Q1N79SQ19YJ8M.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/DM/3C06KDITRE64T00SPDB0LZ.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/EH/I784RMIRHX6KTYXZ8LCRC3.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/I7/PCMNI8AXY37PLWPJ6WF4XK.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/RB/9QVRG8TJSMME4IIF0GMMW8.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/1H/EOUO79MX5FO9VZNZKY04BW.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/4C/34HCRGSQNHZ2ZKNRNSZ3PY.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/G9/CS7RY3SCQ75Q8AHKMPI4V2.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_triple_2.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_esquina_2.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_doble_S.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_simple_L.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/LZ/N2Q5E26I9PB0540S686N29.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/V0/2XAJ02IF4UHI1XX5XZYOAA.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/8T/7DKFTWPIDR1EISMCNXQJ4P.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/KB/ORB7VXBDXSJC8WL00367PA.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_wall_1_doble.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/ImportedBlenderAssets/SM_Modulo_doble_M.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/materials/MasterMaterial/MasterMaterial.uasset",
+				"C:/Users/rodri/Downloads/TP2_Childhood_Memories-main/TP2_Childhood_Memories-main/Childhood_Memories/Content/Art/materials/MasterMaterial/papel_terror.uasset"
+			]
+		}
+	]
+}
